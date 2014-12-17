@@ -1,3 +1,3 @@
 <?php
- echo "Rj'$ World"
+ echo "Rj'$ World";
 ?>
